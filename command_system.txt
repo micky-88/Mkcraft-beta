@@ -1,0 +1,1 @@
+/gamemode, /sethome, /home logic here
